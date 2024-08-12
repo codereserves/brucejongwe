@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/brucejongwe/static/css/main.262bd730.css",
+    "main.js": "/brucejongwe/static/js/main.123a0e8b.js",
+    "static/js/787.4854053c.chunk.js": "/brucejongwe/static/js/787.4854053c.chunk.js",
+    "static/media/img-hero2.jpg": "/brucejongwe/static/media/img-hero2.7a396087717d6aac698a.jpg",
+    "static/media/img5.jpg": "/brucejongwe/static/media/img5.005ef6648860b053814d.jpg",
+    "static/media/img-hero1.jpg": "/brucejongwe/static/media/img-hero1.25bc79d8d10f678124f4.jpg",
+    "static/media/img3.jpg": "/brucejongwe/static/media/img3.69dad03ac4f397774b6d.jpg",
+    "static/media/img6.jpg": "/brucejongwe/static/media/img6.9e08883b1c713f3beae0.jpg",
+    "static/media/bg-testimonial.jpg": "/brucejongwe/static/media/bg-testimonial.b26cbabc972e95786cbf.jpg",
+    "static/media/img-hero3.jpg": "/brucejongwe/static/media/img-hero3.fc13d76750b1bf1ff1e5.jpg",
+    "static/media/img8.jpg": "/brucejongwe/static/media/img8.1066af4480d9f53431f2.jpg",
+    "static/media/img7.jpg": "/brucejongwe/static/media/img7.55be95b71959267f1c62.jpg",
+    "static/media/img9.jpg": "/brucejongwe/static/media/img9.62fae622b50012e2a9e6.jpg",
+    "static/media/img2.jpg": "/brucejongwe/static/media/img2.40a9d29b9f470a11669e.jpg",
+    "static/media/img4.jpg": "/brucejongwe/static/media/img4.ba37c27ab5da9b7d7e66.jpg",
+    "static/media/blog3.jpg": "/brucejongwe/static/media/blog3.bcca9fb438e228c66612.jpg",
+    "static/media/blog1.jpg": "/brucejongwe/static/media/blog1.41fc52f527bd1b05cdcd.jpg",
+    "static/media/blog2.jpg": "/brucejongwe/static/media/blog2.b31a167d23173c955d09.jpg",
+    "static/media/team5.jpg": "/brucejongwe/static/media/team5.849950bc338b0b322c6a.jpg",
+    "static/media/team1.jpg": "/brucejongwe/static/media/team1.5c62cdf454c12337aaa0.jpg",
+    "static/media/img1.jpg": "/brucejongwe/static/media/img1.69259de9db0d2c31ef01.jpg",
+    "static/media/team3.jpg": "/brucejongwe/static/media/team3.5de03ca8026a02a7e51a.jpg",
+    "static/media/team4.jpg": "/brucejongwe/static/media/team4.1f145d6d7a77d3f7fa1d.jpg",
+    "static/media/team8.jpg": "/brucejongwe/static/media/team8.fa903df42616f722725a.jpg",
+    "static/media/team7.jpg": "/brucejongwe/static/media/team7.8abf58b17d3dccaddec4.jpg",
+    "static/media/team2.jpg": "/brucejongwe/static/media/team2.5d54ef0fad5f779cd88b.jpg",
+    "static/media/team6.jpg": "/brucejongwe/static/media/team6.51e55dc38b7ce790b9b8.jpg",
+    "index.html": "/brucejongwe/index.html",
+    "main.262bd730.css.map": "/brucejongwe/static/css/main.262bd730.css.map",
+    "main.123a0e8b.js.map": "/brucejongwe/static/js/main.123a0e8b.js.map",
+    "787.4854053c.chunk.js.map": "/brucejongwe/static/js/787.4854053c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.262bd730.css",
+    "static/js/main.123a0e8b.js"
+  ]
+}
